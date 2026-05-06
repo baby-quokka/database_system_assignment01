@@ -17,6 +17,7 @@
 - `src/bstar_tree.py`: B*-tree implementation using redistribution and 2-to-3 split
 - `src/bplus_tree.py`: B+tree implementation with linked leaf nodes
 - `src/experiment.py`: runs experiments and writes result CSV files
+- `src/range_size_experiment.py`: runs the additional range-width experiment
 
 # Run Experiments
 ```bash

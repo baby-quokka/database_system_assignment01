@@ -284,5 +284,5 @@ if __name__ == "__main__":
 
 
 """
-Test: python src\experiment.py --csv data\student.csv --orders 3 5 10 --n-search 10000 --n-delete 2000 --range-low 202000000 --range-high 202100000 --seed 321 --output results
+Test: python src/experiment.py --csv data/student.csv --orders 3 5 10 --n-search 10000 --n-delete 2000 --range-low 202000000 --range-high 202100000 --seed 321 --output results
 """

@@ -140,3 +140,8 @@ if __name__ == "__main__":
         main()
     except BrokenPipeError:
         sys.exit(1)
+
+
+"""
+Test: python src/range_size_experiment.py --csv data/student.csv --order 10 --widths 100 1000 10000 100000 500000 1000000 --repeats 7 --output results/range_size_experiment.csv
+"""
