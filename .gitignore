@@ -1,0 +1,11 @@
+# Python bytecode/cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Optional local correctness tests
+tests/
+
+# Local smoke-test outputs
+results/smoke/
+results/*_smoke.csv
